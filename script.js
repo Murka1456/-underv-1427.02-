@@ -1,6 +1,5 @@
 
 let newTextContainer = document.querySelector('#newTextContainer');
-
 //KNAPP JEG HAR LAGET SELV
 const button = document.querySelector('#button');
 function Myfunction() {
